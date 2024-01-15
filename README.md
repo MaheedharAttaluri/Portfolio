@@ -60,31 +60,47 @@
 •	Executed Analytic Queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns
 
 **YouTube Trending Video Dataset Visualization**
+
 **Tech Stack: Microsoft PowerBI**
+
 •	Developed an interactive Power BI dashboard to visualize global YouTube trending video data, integrating slicers and varied visualizations to provide in-depth, 
   exploration of key viewership metrics
 
 •	Applied DAX queries within Power BI for in-depth analysis of YouTube video trends, focusing on detailed user engagement and viewership dynamics
 
 **Labor Market & GDP predictions** 
+
 **Tech Stack:** Python, Machine Learning models
+
 •	Analysed FRED API data using Python and machine learning, identifying Consumer Price Index (CPI) as key influence in consumer spending to enhance economic forecasting
 
 •	Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of models predicting labor market and GDP trends.
 
-
-
 ### Skills and Competencies
-•	Expert Knowledge: Ms Office (Excel, Word & PowerPoint)
 
-•	Project Management Softwares: Asana, Jira
+**Programming Languages:** Python, R, HTML, SQL, MATLAB	
 
-•	Sap S\4 Hana, Python, SQL, ETL Pipeline, Data warehousing 
+**Developer Tools:** VS code, Cloud (Amazon Web Services), Anaconda, Microsoft PowerBI, Origin Pro
 
-**Languages**: English (Business fluent, C1), German (Good Knowledge – A2), Telugu (Native).
+**Technologies:** GitHub, Data Bricks, MS Office (Excel, Word & PowerPoint), Apache Spark
+
+**Project Management Softwares:** Asana, Jira
+
+**Personal competence:** Self-motivated, Willingness to perform, Good communication & teamwork skills      
+
+**Languages:** English, German, Telugu 
 
 **Interpersonal Skills**: Team Work, Commitment, Individual, Communication, Flexible
 
 **Technical Competencies**: Project Management, Resource planning, Market Research, Analytical Skills, Design Thinking.
 
-**Hobbies**: Trekking, Badminton, Listening music
+**Hobbies**: Trekking, Volley ball, Listening music
+
+### Certifications
+
+**Amazon Web Services (AWS):** AWS Certified `Cloud Practitioner
+
+**365 Data Science:** Python, Power BI, Tableau
+
+**Coursera:** Data Visualization and Dashboards with Excel and Cognos, Introduction to Data Analytics
+
