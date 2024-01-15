@@ -1,15 +1,15 @@
 # Data Engineer
 ### Educational Career
-**09/2019 – Present** - **Hochschule Emden/Leer, Emden, Germany**
-Master of Engineering(M.Eng)| Technical Management |Grade: 1.89
 
-Focus: Project management, Strategic and Business management, Quality Management
+**M.Sc. Engineering Management (Major: Data Analytics)** | Wichita State University, USA January 2023 – May 2024
 
-Key Learnings: Project Management, KPI analysis, Poter’s 5 Forces, Swot Analysis, value chain analysis, Lean Management, Six Sigma.
+**Focus:** Machine Learning, Big Data Analytics, Applied Data Science
 
-**08/2014 – 04/2018** - **JNTU Kakinada, India**
-Bachelor of Technology(B.Tech)| Mechanical Engineering |Grade: 2.5
-Focus: Production Planning & Control, Operation & Research and Industrial Engineering Management.
+**M.Sc. Metallic Materials Technology** | TU Bergakademie Freiberg, Germany (April 2019 – November 2022)
+
+**Focus:** Additive Manufacturing, Project Management, Operations Management
+**B.TECH. Mechanical engineering** | Jawaharlal Nehru Technological University, India (August 2014 - May 2018)           
+**Focus:**  Industrial Management, Manufacturing Automation, Process Design
 ### Professional Career
 **11/2021 – 05/2023** - **Medical Issue**
 
