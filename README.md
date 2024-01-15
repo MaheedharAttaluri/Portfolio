@@ -47,6 +47,32 @@
 
 •	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
 
+**E-Commerce Data Modelling and Analytics**
+
+**Tech Stack:** PostgreSQL, Python
+
+•	Performed exploratory data analysis on the Instacart dataset using Python, to understand consumer purchase patterns
+
+•	Developed an E-commerce data model and established a PostgreSQL database to streamline analytics
+
+•	Generated PostgreSQL tables with Python queries, streamlining data insertion using psycopg2 and sqlalchemy packages
+
+•	Executed Analytic Queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns
+
+**YouTube Trending Video Dataset Visualization**
+**Tech Stack: Microsoft PowerBI**
+•	Developed an interactive Power BI dashboard to visualize global YouTube trending video data, integrating slicers and varied visualizations to provide in-depth, 
+  exploration of key viewership metrics
+
+•	Applied DAX queries within Power BI for in-depth analysis of YouTube video trends, focusing on detailed user engagement and viewership dynamics
+
+**Labor Market & GDP predictions** 
+**Tech Stack:** Python, Machine Learning models
+•	Analysed FRED API data using Python and machine learning, identifying Consumer Price Index (CPI) as key influence in consumer spending to enhance economic forecasting
+
+•	Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of models predicting labor market and GDP trends.
+
+
 
 ### Skills and Competencies
 •	Expert Knowledge: Ms Office (Excel, Word & PowerPoint)
