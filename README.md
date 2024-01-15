@@ -8,8 +8,11 @@
 **M.Sc. Metallic Materials Technology** | TU Bergakademie Freiberg, Germany (April 2019 – November 2022)
 
 **Focus:** Additive Manufacturing, Project Management, Operations Management
-**B.TECH. Mechanical engineering** | Jawaharlal Nehru Technological University, India (August 2014 - May 2018)           
+
+**B.TECH. Mechanical engineering** | Jawaharlal Nehru Technological University, India (August 2014 - April 2018)  
+
 **Focus:**  Industrial Management, Manufacturing Automation, Process Design
+
 ### Professional Career
 **11/2021 – 05/2023** - **Medical Issue**
 
