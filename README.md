@@ -35,9 +35,19 @@
 •	Performing Advanced Machining Techniques in practical applications.
 
 ### Projects
-03/2020 – 08/2020	Performed Analysis on the exisiting business model & position of Starbucks in germany using porter forces BMC and Market Research, idetified the reasons for low market share and developed strategies for increasing consumers to Starbucks by building local acceptance using Design Thinking approach.
+**Spotify Data pipeline (ETL)**
 
-09/2019 – 07/2020	Sucessfully managed a 6 member team of distinct functions in developing a autonomous robot using Agile methodology of project management that transfers objects between two stations, spending 14% less than the allocated budget.
+**Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
+
+•	Extracted Spotify API data using Python and automated extraction to AWS Lambda for efficient processing and storage
+
+•	Configured AWS Lambda with triggers set to execute every one-minute, channelling new data to an S3 bucket for uninterrupted data ingestion
+
+•	Initiated data transformation with S3 triggers and Lambda to sort data into designated bucket folders
+
+•	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
+
+
 ### Skills and Competencies
 •	Expert Knowledge: Ms Office (Excel, Word & PowerPoint)
 
