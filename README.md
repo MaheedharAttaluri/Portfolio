@@ -92,7 +92,7 @@
 
 **Interpersonal Skills**: Team Work, Commitment, Individual, Communication, Flexible
 
-**Technical Competencies**: Project Management, Resource planning, Market Research, Analytical Skills, Design Thinking.
+**Technical Competencies**: Resource planning, Market Research, Analytical Skills, Design Thinking.
 
 **Hobbies**: Trekking, Volley ball, Listening music
 
