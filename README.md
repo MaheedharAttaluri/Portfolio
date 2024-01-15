@@ -14,25 +14,31 @@
 **Focus:**  Industrial Management, Manufacturing Automation, Process Design
 
 ### Professional Career
-**11/2021 – 05/2023** - **Medical Issue**
 
-**05/2021 – 10/2021** - **Dirk's Group**  - Assosiate Project Manager
+**Employer:** National Institute for Aviation Research, Wichita, USA                                                           April 2023 – Present
 
-**04/2018 – 06/2019** - **Allen Reinforced Plastics Private Limited** – Junior Engineer
-•	Monitored Production and Machine Operations related to injection moulding and Programming numerous tasks of CNC Milling, lathe by Using Seimens NX to reduce manual intervention during Machining.
-•	Implemented Quality control techniques such as Checklists, Run Charts & DMAIC methodology and sucessfully reduced Production Lead time and Mill idle time by 5%.
-•	Coordinating with Project Lead while planning & implementation Project Schedule Plan which has reduced cobble formation in machining area and reduced Overall annual costs of $2400(Approx).
+**Graduate Assistant & Data Research Analyst**
 
-**01/2018 – 02/2018** - **G.S. Alloys Casting Limited** - Intern in Quality Assurance and Control
-•	Determining the Mechanical Properties, manufacturing isuues and carbon deposition in the casting after heat treatment process to ensure Quality of the casting. 
-•	Documenting & reporting the results to the Production manager for internal Audits.
+•	Developing and maintaining Microsoft SQL database for additive manufacturing analytics, enhancing query performance and data integrity for critical performance 
+  metrics evaluation
+  
+•	Implementing different machine learning models to accurately predict the simulation results of additive manufactured components
 
-**05/2017 – 06/2017** - **Hindustan Shipyard Limited** - Industrial Trainee in Quality Assurance
-•	Determing Quality of the welds by performing NDT methods and documenting data in  checklists for internal audits.
+•	Creating interactive dashboards to visualizing mechanical properties data
 
-04/2017 – 05/2017	  **CENTRAL GOVERNMENT ORGANISATION CIPET** - Intern in CNC Programming and Advanced Machining
-•	Creating 3d models & Programming CNC machines in Unigraphics according to the product requirements which assisted design department in completion of prototypes.
-•	Performing Advanced Machining Techniques in practical applications.
+**Softwares:** 3D Experience, Python, Power BI, Microsoft SQL
+
+**Employer:**  Fraunhofer IGCV Research Institute, Munich, Germany                                     January 2022 – November 2022
+
+**Student Research Assistant**
+
+**Softwares:** Origin pro, Siemens NX 
+
+**Employer:** Volkswagen AG/Audi AG, Germany                                                                                March 2021 – October 2021 
+
+**Internship in Technology Development Casting**
+
+
 
 ### Projects
 **Spotify Data pipeline (ETL)**
