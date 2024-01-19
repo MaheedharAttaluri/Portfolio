@@ -1,12 +1,12 @@
 ## 📍 Wichita, Kansas
 
-📞 [Phone: +1-3162235472](tel:+1-3162235472) | ✉️ [Email: maheedhar.attaluri@outlook.com](mailto:maheedhar.attaluri@outlook.com)
+📞 [Phone: +1-3162235472](tel:+1-3162235472)  ✉️ [Email: maheedhar.attaluri@outlook.com](mailto:maheedhar.attaluri@outlook.com)
 
-🔗 [LinkedIn: Maheedhar Attaluri](https://www.linkedin.com/in/maheedhar-attaluri-6136b51ab/) | 👨‍💻 [GitHub: MaheedharAttaluri](https://github.com/MaheedharAttaluri)
+🔗 [LinkedIn: Maheedhar Attaluri](https://www.linkedin.com/in/maheedhar-attaluri-6136b51ab/)  👨‍💻 [GitHub: MaheedharAttaluri](https://github.com/MaheedharAttaluri)
 
 ## Educational Career
 
-**M.Sc. Engineering Management** - **Major: Data Analytics** | Wichita State University, USA January 2023 – May 2024
+**M.Sc. Engineering Management** - **Major: Data Analytics**  Wichita State University, USA January 2023 – May 2024
 
 Focus: Machine Learning, Big Data Analytics, Applied Data Science
 
