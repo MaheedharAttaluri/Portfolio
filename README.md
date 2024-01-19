@@ -1,4 +1,4 @@
-### Technical Skills: Python, SQL, Snowflake, Microsoft Azure, GCP
+### Technical Skills: Python, SQL, Snowflake, Microsoft Azure, AWS
 
 ## 📍 Wichita, Kansas
 
@@ -14,7 +14,6 @@
 ### Educational Career
 
 **M.Sc. Engineering Management (Major: Data Analytics)** | Wichita State University, USA January 2023 – May 2024
-
 **Focus:** Machine Learning, Big Data Analytics, Applied Data Science
 
 **M.Sc. Metallic Materials Technology** | TU Bergakademie Freiberg, Germany (April 2019 – November 2022)
