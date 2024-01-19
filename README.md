@@ -10,7 +10,8 @@
 ### Educational Career
 
 **M.Sc. Engineering Management (Major: Data Analytics)** | Wichita State University, USA January 2023 – May 2024
-**Focus:** Machine Learning, Big Data Analytics, Applied Data Science
+
+Focus: Machine Learning, Big Data Analytics, Applied Data Science
 
 **M.Sc. Metallic Materials Technology** | TU Bergakademie Freiberg, Germany (April 2019 – November 2022)
 
@@ -41,7 +42,7 @@
 
 **Softwares:** Origin pro, Siemens NX 
 
-**Employer:** Volkswagen AG/Audi AG, Germany                                                                                March 2021 – October 2021 
+**Employer:** Volkswagen AG/Audi AG, Germany                                                            March 2021 – October 2021 
 
 **Internship in Technology Development Casting**
 
