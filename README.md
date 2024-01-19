@@ -1,3 +1,15 @@
+### Technical Skills: Python, SQL, Snowflake, Microsoft Azure, GCP
+
+## 📍 Wichita, Kansas
+
+📞 [Phone: +1-3162235472](tel:+1-3162235472)
+
+✉️ [Email: viraniriaz554@gmail.com](mailto:viraniriaz554@gmail.com)
+
+🔗 [LinkedIn: Riaz Virani](https://www.linkedin.com/in/riaz-virani/)
+
+👨‍💻 [GitHub: viraniriaz](https://github.com/viraniriaz)
+
 # Data Engineer
 ### Educational Career
 
