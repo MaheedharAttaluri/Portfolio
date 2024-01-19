@@ -9,7 +9,7 @@
 # Data Engineer
 ### Educational Career
 
-**M.Sc. Engineering Management (Major: Data Analytics)** | Wichita State University, USA January 2023 – May 2024
+**M.Sc. Engineering Management** - **Major: Data Analytics** | Wichita State University, USA January 2023 – May 2024
 
 Focus: Machine Learning, Big Data Analytics, Applied Data Science
 
