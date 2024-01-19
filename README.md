@@ -2,9 +2,9 @@
 
 ## 📍 Wichita, Kansas
 
-📞 [Phone: +1-3162235472](tel:+1-3162235472) | ✉️ [Email: viraniriaz554@gmail.com](mailto:viraniriaz554@gmail.com)
+📞 [Phone: +1-3162235472](tel:+1-3162235472) | ✉️ [Email: maheedhar.attaluri@outlook.com](mailto:maheedhar.attaluri@outlook.com)
 
-🔗 [LinkedIn: Riaz Virani](https://www.linkedin.com/in/riaz-virani/) | 👨‍💻 [GitHub: viraniriaz](https://github.com/viraniriaz)
+🔗 [LinkedIn: Maheedhar Attaluri](https://www.linkedin.com/in/maheedhar-attaluri-6136b51ab/) | 👨‍💻 [GitHub: MaheedharAttaluri](https://github.com/MaheedharAttaluri)
 
 # Data Engineer
 ### Educational Career
