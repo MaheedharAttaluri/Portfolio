@@ -6,15 +6,15 @@
 
 ## Educational Career
 
-**M.Sc. Engineering Management** - **Major: Data Analytics**  Wichita State University, USA January 2023 – May 2024
+**M.Sc. Engineering Management** - **Major: Data Analytics** Wichita State University, USA January 2023 – May 2024
 
 Focus: Machine Learning, Big Data Analytics, Applied Data Science
 
-**M.Sc. Metallic Materials Technology** | TU Bergakademie Freiberg, Germany (April 2019 – November 2022)
+**M.Sc. Metallic Materials Technology**  TU Bergakademie Freiberg, Germany (April 2019 – November 2022)
 
 **Focus:** Additive Manufacturing, Project Management, Operations Management
 
-**B.TECH. Mechanical engineering** | Jawaharlal Nehru Technological University, India (August 2014 - April 2018)  
+**B.TECH. Mechanical engineering** Jawaharlal Nehru Technological University, India (August 2014 - April 2018)  
 
 **Focus:**  Industrial Management, Manufacturing Automation, Process Design
 
