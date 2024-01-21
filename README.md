@@ -56,6 +56,8 @@ Focus:  Industrial Management, Manufacturing Automation, Process Design
 
 •	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
 
+![Spotify ETL](assets/images/Spotify-ETL.jpeg)
+
 **E-Commerce Data Modelling and Analytics**
 
 **Tech Stack:** PostgreSQL, Python
