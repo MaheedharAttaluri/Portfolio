@@ -44,7 +44,7 @@ Focus:  Industrial Management, Manufacturing Automation, Process Design
 **Internship in Technology Development Casting**
 
 ## Projects
-**Spotify Data pipeline (ETL)**
+[**Spotify Data pipeline (ETL)**](https://github.com/MaheedharAttaluri/Spotify-ETL.git)
 
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
 
