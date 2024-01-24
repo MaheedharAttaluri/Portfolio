@@ -37,11 +37,25 @@ Focus:  Industrial Management, Manufacturing Automation, Process Design
 
 **Student Research Assistant**
 
+•	Performed in-depth data analytics on Die-casting experimental data using Origin Pro software to effectively visualize key manufacturing metrics, aiding in strategic decision-making.
+
+•	Applied statistical techniques, like correlation analysis, to streamline automotive parts production, enhancing operational efficiency.
+
 **Softwares:** Origin pro, Siemens NX 
 
-**Employer:** Volkswagen AG/Audi AG, Germany                                                            March 2021 – October 2021 
+**Employer:** Volkswagen AG/Audi AG, Germany                                                            
 
-**Internship in Technology Development Casting**
+**Internship in Technology Development Casting**                                                        May 2021 – October 2021 
+
+•	Coordinated cross-functional teams using Asana tool to align production management with data analysis insights, enhancing efficiency and quality in technology development cycles
+
+•	Optimized automotive component design in CATIA V5 software, utilizing regression analysis and variance testing to ensure design accuracy and performance consistency
+
+**Work student in Quality Assurance Department**                                                         March 2021 – May 2021
+
+•	Streamlined Assembly workflows with process mapping, adhering to automotive quality standards and generating component analysis reports
+
+**Softwares:** Catia V5, Asana, Miro 
 
 ## Projects
 [**Spotify Data pipeline (ETL)**](https://github.com/MaheedharAttaluri/Spotify-ETL.git)
