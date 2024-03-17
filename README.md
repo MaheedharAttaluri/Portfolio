@@ -84,6 +84,9 @@ Focus:  Industrial Management, Manufacturing Automation, Process Design
 
 •	Executed Analytic Queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns
 
+![Instakart-Data-Analysis](assets/images/instakart.png)
+
+
 **YouTube Trending Video Dataset Visualization**
 
 **Tech Stack: Microsoft PowerBI**
