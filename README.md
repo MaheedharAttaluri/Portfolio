@@ -4,20 +4,6 @@
 
 🔗 [LinkedIn: Maheedhar Attaluri](https://www.linkedin.com/in/maheedhar-attaluri-6136b51ab/)  👨‍💻 [GitHub: MaheedharAttaluri](https://github.com/MaheedharAttaluri)
 
-## Educational Career
-
-### M.Sc. Engineering Management - Major: Data Analytics - Wichita State University, USA January 2023 – May 2024
-
-Focus: Machine Learning, Big Data Analytics, Applied Data Science
-
-M.Sc. Metallic Materials Technology - TU Bergakademie Freiberg, Germany (April 2019 – November 2022)
-
-Focus: Additive Manufacturing, Project Management, Operations Management
-
-B.TECH. Mechanical engineering - Jawaharlal Nehru Technological University, India (August 2014 - April 2018)  
-
-Focus:  Industrial Management, Manufacturing Automation, Process Design
-
 ## Professional Career
 
 **Employer:** National Institute for Aviation Research, Wichita, USA                                                           April 2023 – Present
@@ -131,4 +117,18 @@ Focus:  Industrial Management, Manufacturing Automation, Process Design
 **365 Data Science:** Python, Power BI, Tableau
 
 **Coursera:** Data Visualization and Dashboards with Excel and Cognos, Introduction to Data Analytics
+
+## Educational Career
+
+### M.Sc. Engineering Management - Major: Data Analytics - Wichita State University, USA January 2023 – May 2024
+
+Focus: Machine Learning, Big Data Analytics, Applied Data Science
+
+M.Sc. Metallic Materials Technology - TU Bergakademie Freiberg, Germany (April 2019 – November 2022)
+
+Focus: Additive Manufacturing, Project Management, Operations Management
+
+B.TECH. Mechanical engineering - Jawaharlal Nehru Technological University, India (August 2014 - April 2018)  
+
+Focus:  Industrial Management, Manufacturing Automation, Process Design
 
