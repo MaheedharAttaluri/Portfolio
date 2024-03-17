@@ -72,7 +72,7 @@ Focus:  Industrial Management, Manufacturing Automation, Process Design
 
 ![Spotify ETL](assets/images/Spotify-ETL.jpeg)
 
-**E-Commerce Data Modelling and Analytics**
+[**E-Commerce Data Modelling and Analytics**](https://github.com/MaheedharAttaluri/Instakart-Data-Analysis)
 
 **Tech Stack:** PostgreSQL, Python
 
