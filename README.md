@@ -34,7 +34,7 @@
 ![Instakart-Data-Analysis](assets/images/instakart.png)
 
 
-**YouTube Trending Video Dataset Visualization**
+[**YouTube Trending Video Dataset Visualization**](https://github.com/MaheedharAttaluri/YouTube-Treanding-Video-Analytics-)
 
 **Tech Stack: Microsoft PowerBI**
 
@@ -42,6 +42,8 @@
   exploration of key viewership metrics
 
 •	Applied DAX queries within Power BI for in-depth analysis of YouTube video trends, focusing on detailed user engagement and viewership dynamics
+
+![YouTube-Treanding-Video-Analytics-](Images/Dashboard.jpg)
 
 **Labor Market & GDP predictions** 
 
