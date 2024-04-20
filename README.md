@@ -45,7 +45,7 @@
 
 ![YouTube-Treanding-Video-Analytics-](assets/images/Dashboard.jpg)
 
-**Labor Market & GDP predictions** 
+[**Labor Market & GDP predictions**](https://github.com/MaheedharAttaluri/Labor-Market-GDP-Prediction) 
 
 **Tech Stack:** Python, Machine Learning models
 
@@ -53,7 +53,9 @@
 
 •	Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of models predicting labor market and GDP trends.
 ![Labor-Market-GDP-Prediction](assets/images/GDPPrediction.jpeg)
+[**Stock-Market-Prediction**](https://github.com/MaheedharAttaluri/Stock-Market-Prediction)
 ![Stock-Market-Prediction](assets/images/StockMarketETL.jpeg)
+[**Live-Data-Analysis-using-Kafka**](https://github.com/MaheedharAttaluri/Live-Data-Analysis-using-Kafka)
 ![Live-Data-Analysis-using-Kafka](assets/images/kafka-Architecture.jpeg)
 
 
