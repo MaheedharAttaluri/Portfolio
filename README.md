@@ -4,6 +4,83 @@
 
 🔗 [LinkedIn: Maheedhar Attaluri](https://www.linkedin.com/in/maheedhar-attaluri-6136b51ab/)  👨‍💻 [GitHub: MaheedharAttaluri](https://github.com/MaheedharAttaluri)
 
+## Projects
+[**Spotify Data pipeline (ETL)**](https://github.com/MaheedharAttaluri/Spotify-ETL.git)
+
+**Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
+
+•	Extracted Spotify API data using Python and automated extraction to AWS Lambda for efficient processing and storage
+
+•	Configured AWS Lambda with triggers set to execute every one-minute, channelling new data to an S3 bucket for uninterrupted data ingestion
+
+•	Initiated data transformation with S3 triggers and Lambda to sort data into designated bucket folders
+
+•	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
+
+![Spotify ETL](assets/images/Spotify-ETL.jpeg)
+
+[**E-Commerce Data Modelling and Analytics**](https://github.com/MaheedharAttaluri/Instakart-Data-Analysis)
+
+**Tech Stack:** PostgreSQL, Python
+
+•	Performed exploratory data analysis on the Instacart dataset using Python, to understand consumer purchase patterns
+
+•	Developed an E-commerce data model and established a PostgreSQL database to streamline analytics
+
+•	Generated PostgreSQL tables with Python queries, streamlining data insertion using psycopg2 and sqlalchemy packages
+
+•	Executed Analytic Queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns
+
+![Instakart-Data-Analysis](assets/images/instakart.png)
+
+
+[**YouTube Trending Video Dataset Visualization**](https://github.com/MaheedharAttaluri/YouTube-Treanding-Video-Analytics-)
+
+**Tech Stack: Microsoft PowerBI**
+
+•	Developed an interactive Power BI dashboard to visualize global YouTube trending video data, integrating slicers and varied visualizations to provide in-depth, 
+  exploration of key viewership metrics
+
+•	Applied DAX queries within Power BI for in-depth analysis of YouTube video trends, focusing on detailed user engagement and viewership dynamics
+
+![YouTube-Treanding-Video-Analytics-](assets/Images/Dashboard.jpg)
+
+**Labor Market & GDP predictions** 
+
+**Tech Stack:** Python, Machine Learning models
+
+•	Analysed FRED API data using Python and machine learning, identifying Consumer Price Index (CPI) as key influence in consumer spending to enhance economic forecasting
+
+•	Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of models predicting labor market and GDP trends.
+
+## Skills and Competencies
+
+**Programming Languages:** Python, R, HTML, SQL, MATLAB	
+
+**Developer Tools:** VS code, Cloud (Amazon Web Services), Anaconda, Microsoft PowerBI, Origin Pro
+
+**Technologies:** GitHub, Data Bricks, MS Office (Excel, Word & PowerPoint), Apache Spark
+
+**Project Management Softwares:** Asana, Jira
+
+**Personal competence:** Self-motivated, Willingness to perform, Good communication & teamwork skills      
+
+**Languages:** English, German, Telugu 
+
+**Interpersonal Skills**: Team Work, Commitment, Individual, Communication, Flexible
+
+**Technical Competencies**: Resource planning, Market Research, Analytical Skills, Design Thinking.
+
+**Hobbies**: Trekking, Volley ball, Listening music
+
+## Certifications
+
+**Amazon Web Services (AWS):** AWS Certified `Cloud Practitioner
+
+**365 Data Science:** Python, Power BI, Tableau
+
+**Coursera:** Data Visualization and Dashboards with Excel and Cognos, Introduction to Data Analytics
+
 ## Educational Career
 
 ### M.Sc. Engineering Management - Major: Data Analytics - Wichita State University, USA January 2023 – May 2024
@@ -56,76 +133,3 @@ Focus:  Industrial Management, Manufacturing Automation, Process Design
 •	Streamlined Assembly workflows with process mapping, adhering to automotive quality standards and generating component analysis reports
 
 **Softwares:** Catia V5, Asana, Miro 
-
-## Projects
-[**Spotify Data pipeline (ETL)**](https://github.com/MaheedharAttaluri/Spotify-ETL.git)
-
-**Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
-
-•	Extracted Spotify API data using Python and automated extraction to AWS Lambda for efficient processing and storage
-
-•	Configured AWS Lambda with triggers set to execute every one-minute, channelling new data to an S3 bucket for uninterrupted data ingestion
-
-•	Initiated data transformation with S3 triggers and Lambda to sort data into designated bucket folders
-
-•	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
-
-![Spotify ETL](assets/images/Spotify-ETL.jpeg)
-
-**E-Commerce Data Modelling and Analytics**
-
-**Tech Stack:** PostgreSQL, Python
-
-•	Performed exploratory data analysis on the Instacart dataset using Python, to understand consumer purchase patterns
-
-•	Developed an E-commerce data model and established a PostgreSQL database to streamline analytics
-
-•	Generated PostgreSQL tables with Python queries, streamlining data insertion using psycopg2 and sqlalchemy packages
-
-•	Executed Analytic Queries in PostgreSQL to extract key insights on order frequencies, product popularity, and temporal shopping patterns
-
-**YouTube Trending Video Dataset Visualization**
-
-**Tech Stack: Microsoft PowerBI**
-
-•	Developed an interactive Power BI dashboard to visualize global YouTube trending video data, integrating slicers and varied visualizations to provide in-depth, 
-  exploration of key viewership metrics
-
-•	Applied DAX queries within Power BI for in-depth analysis of YouTube video trends, focusing on detailed user engagement and viewership dynamics
-
-**Labor Market & GDP predictions** 
-
-**Tech Stack:** Python, Machine Learning models
-
-•	Analysed FRED API data using Python and machine learning, identifying Consumer Price Index (CPI) as key influence in consumer spending to enhance economic forecasting
-
-•	Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of models predicting labor market and GDP trends.
-
-## Skills and Competencies
-
-**Programming Languages:** Python, R, HTML, SQL, MATLAB	
-
-**Developer Tools:** VS code, Cloud (Amazon Web Services), Anaconda, Microsoft PowerBI, Origin Pro
-
-**Technologies:** GitHub, Data Bricks, MS Office (Excel, Word & PowerPoint), Apache Spark
-
-**Project Management Softwares:** Asana, Jira
-
-**Personal competence:** Self-motivated, Willingness to perform, Good communication & teamwork skills      
-
-**Languages:** English, German, Telugu 
-
-**Interpersonal Skills**: Team Work, Commitment, Individual, Communication, Flexible
-
-**Technical Competencies**: Resource planning, Market Research, Analytical Skills, Design Thinking.
-
-**Hobbies**: Trekking, Volley ball, Listening music
-
-## Certifications
-
-**Amazon Web Services (AWS):** AWS Certified `Cloud Practitioner
-
-**365 Data Science:** Python, Power BI, Tableau
-
-**Coursera:** Data Visualization and Dashboards with Excel and Cognos, Introduction to Data Analytics
-
