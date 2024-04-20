@@ -43,7 +43,7 @@
 
 •	Applied DAX queries within Power BI for in-depth analysis of YouTube video trends, focusing on detailed user engagement and viewership dynamics
 
-![YouTube-Treanding-Video-Analytics-](assets/Images/Dashboard.jpg)
+![YouTube-Treanding-Video-Analytics-](assets/images/Dashboard.jpg)
 
 **Labor Market & GDP predictions** 
 
