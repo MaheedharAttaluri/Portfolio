@@ -62,7 +62,7 @@
 •	Stock prices are extracted in real-time using the Finhub API and streamed into Kafka. A custom Python script functions as a producer, efficiently 
   pushing the data into Kafka topics.
 
-•	The data flow is managed by Kafka, supported by ZooKeeper, ensuring robust data handling. Both Kafka brokers and ZooKeeper are hosted on AWS EC2 
+•	The data flow is managed by Kafka, supported by ZooKeeper, ensuring robust data handling. Both Kafka broker and ZooKeeper are hosted on AWS EC2 
   instances to effectively manage the processing load.
 
 •	After processing, the data is stored in AWS S3, providing a scalable and secure storage solution that acts as a data lake for further processing 
