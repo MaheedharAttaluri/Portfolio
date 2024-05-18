@@ -56,6 +56,7 @@
 [**Stock-Market-Prediction**](https://github.com/MaheedharAttaluri/Stock-Market-Prediction)
 ![Stock-Market-Prediction](assets/images/StockMarketETL.jpeg)
 [**Live-Data-Analysis-using-Kafka**](https://github.com/MaheedharAttaluri/Live-Data-Analysis-using-Kafka)
+
 **Tech Stack:** Python,Kafka, AWS (Lambda, S3, Crawler, Glue, Athena)
 
 •	Stock prices are extracted in real-time using the Finhub API and streamed into Kafka. A custom Python script functions as a producer, efficiently 
