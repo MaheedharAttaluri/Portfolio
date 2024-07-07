@@ -53,8 +53,18 @@
 
 •	Applied Principal Component Analysis and time series analysis to enhance the accuracy and robustness of models predicting labor market and GDP trends.
 ![Labor-Market-GDP-Prediction](assets/images/GDPPrediction.jpeg)
+
 [**Stock-Market-Prediction**](https://github.com/MaheedharAttaluri/Stock-Market-Prediction)
+
+**Tech Stack:** Python, Jupyter Notebook, AWS Cloud Architecture 
+
+•	Automated ETL pipeline capable of handling dynamic inputs, reduced manual data processing time by 70% and streamlining financial metric calculations.
+
+•	Developed a Timeseries model which achieved prediction accuracy within 5% error margin of actual stock prices for the initial 5-day forecast period.
+
+•	Proposed cloud-based architecture enhanced data processing scalability by 80% and reduced latency by 40%, using AWS services.
 ![Stock-Market-Prediction](assets/images/StockMarketETL.jpeg)
+
 [**Live-Data-Analysis-using-Kafka**](https://github.com/MaheedharAttaluri/Live-Data-Analysis-using-Kafka)
 
 **Tech Stack:** Python,Kafka, AWS (EC2, S3, Crawler, Glue, Athena)
