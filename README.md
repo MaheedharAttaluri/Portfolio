@@ -111,7 +111,7 @@
 
 **Coursera:** Data Visualization and Dashboards with Excel and Cognos, Introduction to Data Analytics
 
-## Educational Career
+## 🎓 Educational Career
 
 ### M.Sc. Engineering Management - Major: Data Analytics - Wichita State University, USA January 2023 – May 2024
 
