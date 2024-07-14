@@ -4,7 +4,7 @@
 
 🔗 [LinkedIn: Maheedhar Attaluri](https://www.linkedin.com/in/maheedhar-attaluri-6136b51ab/)  👨‍💻 [GitHub: MaheedharAttaluri](https://github.com/MaheedharAttaluri)
 
-## Projects
+## 🗂️ Projects
 [**Spotify Data pipeline (ETL)**](https://github.com/MaheedharAttaluri/Spotify-ETL.git)
 
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
