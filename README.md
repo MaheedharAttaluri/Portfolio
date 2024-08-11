@@ -18,7 +18,7 @@
 •	Enabled an AWS Glue crawler to update the Glue Data Catalog automatically, allowing for sophisticated querying in Amazon Athena
 
 ![Spotify ETL](assets/images/Spotify-ETL.jpeg)
-
+![Spotify ETL](assets/images/ETLSnowflake.jpeg)
 [**E-Commerce Data Modelling and Analytics**](https://github.com/MaheedharAttaluri/Instakart-Data-Analysis)
 
 **Tech Stack:** PostgreSQL, Python
