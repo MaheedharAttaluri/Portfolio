@@ -1,4 +1,4 @@
-## 📍 Wichita, Kansas
+## 📍 Naperville, Illinois
 
 📞 [Phone: +1-3162235472](tel:+1-3162235472)  ✉️ [Email: maheedhar.attaluri@outlook.com](mailto:maheedhar.attaluri@outlook.com)
 
